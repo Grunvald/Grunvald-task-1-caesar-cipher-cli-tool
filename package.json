@@ -1,0 +1,19 @@
+{
+  "name": "task-1-caesar-cipher-cli-tool",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Grunvald/task-1-caesar-cipher-cli-tool.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Grunvald/task-1-caesar-cipher-cli-tool/issues"
+  },
+  "homepage": "https://github.com/Grunvald/task-1-caesar-cipher-cli-tool#readme",
+  "dependencies": {
+    "minimist": "^1.2.5"
+  }
+}
