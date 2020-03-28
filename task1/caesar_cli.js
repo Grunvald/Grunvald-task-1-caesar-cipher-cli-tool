@@ -3,13 +3,6 @@ const fs = require('fs');
 const path = require('path');
 const encryption = require('./encryption');
 
-/*
- -s, --shift: a shift
- -i, --input: an input file
- -o, --output: an output file
- -a, --action: an action encode/decode
- */
-
 const requiredKeys = [
   'shift',
   'action',
@@ -49,10 +42,7 @@ const init = () => {
     }
   } catch (err) {
     console.error(err);
-    console.error(JSON.stringify(err));
   }
 };
 
 init(argv);
-
-//console.log(validateArg(parseArgs(argv)));
