@@ -1,6 +1,22 @@
+node_modules
+
 # Created by .ignore support plugin (hsz.mobi)
 .gitignore
 .idea/misc.xml
 .idea/modules.xml
 .idea/task-1-caesar-cipher-cli-tool.iml
 .idea/vcs.xml
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
