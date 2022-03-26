@@ -14,6 +14,6 @@
   },
   "homepage": "https://github.com/Grunvald/task-1-caesar-cipher-cli-tool#readme",
   "dependencies": {
-    "minimist": "^1.2.5"
+    "minimist": "^1.2.6"
   }
 }
